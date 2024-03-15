@@ -1,0 +1,21 @@
+.btn-grey {
+    background-color: #f5f5f5;
+    border: 1px solid #959696;
+}
+
+.btn-grey.pill {
+    border-radius: 25px;
+}
+
+.btn-green {
+    background-color: #1b3131;
+    border: 1px solid #1b3131;
+    color: #fff;
+    width: fit-content;
+}
+
+.btn-green:hover, .btn-outline-dark:hover {
+    background-color: #5ba4a4;
+    border: 1px solid #5ba4a4;
+    color: #fff;
+}
